@@ -4,11 +4,33 @@
 
 ---
 
-***This project is*** ![Under Construction](https://img.shields.io/static/v1?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAACmElEQVQokUWSa0iTcRTGn//26u4b6ZQ0U8lKMqykwPpgZVBEHyLp8jEoIZJADCQ0iCiStIwuZmHRioIuroQss2VkrkIrdeFckiZqdhctTXPOve8Tr7M6X8/zO+fwPEfIwy7IwQA0GgExGYQwyhCmMLRX1z2hJCJSN+xZgqAZnPgCaAUQ0EHICjSYLlKBCDdNQb7HLmeRoy3zQFnzYk/1WTckGUIXCVD+Kw+BpAxtuBXCpkN7bdXt/JL3W3J3xuHg3iTsL/NkNFWVPoWkQOj/wxooCrRhFgiTjI4n9ZVHHQObjxVEY8UGIi1zEhVFCahwdq5qvn+hHkKC0EcBigxwvAnkW3ge7L6TMi+VztOLOOKOY8ulKL68GM2emnjeLF3AZSlz2FCZ6yaHwLGv6pkv8MyxsUoHLcsLwBuHwE0rtdy2UuLWNTpmpkkszQEfnAPDAd47tbaB7NaJR+eXujfmtGTUXgFWp5uwPd8Oi1GBJEmwWYlP34L4PSFw7chPeD+MYnkWUVmy0CeNfe5N8ANIjNWpNmHzqklYrDIGRwRm2gXsM/xofRMOf1AgcbYOAfgxMvgxCmS9+dbh5A6VarxuIMdBDoJ0g+vSreytNpAEux7qqWrK82I+kC2xYOAzyFbz5QNJPrXhdRo4XK/n3WILkxPsbKqwsr8xBB3PjukhGyJJv+qqB+QvkN0mR2Fim5pU1hobzxTYOPbcyJoTNpoAlu6wdZKvIslR0O9VXe0Clc5p2Ge4WDh36ux3ThM/1RqnNhXvilU32cjvINtAf4cKdkzlSHpBTqgNY11JfLtFA+o14NU8Wx/piggNfg2yGVR8EF9/dP37PyCIoDQLs8z9hmv71nsC4wFz9klX2tD4/AEG+gBoQ7KghD8MZ2xdnt7s7wAAAABJRU5ErkJggg==&label=Under&message=Construction&style=for-the-badge&labelColor=1D1D1D&color=ffff99)
+<!-- ***This project is*** ![Under Construction](https://img.shields.io/static/v1?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAACmElEQVQokUWSa0iTcRTGn//26u4b6ZQ0U8lKMqykwPpgZVBEHyLp8jEoIZJADCQ0iCiStIwuZmHRioIuroQss2VkrkIrdeFckiZqdhctTXPOve8Tr7M6X8/zO+fwPEfIwy7IwQA0GgExGYQwyhCmMLRX1z2hJCJSN+xZgqAZnPgCaAUQ0EHICjSYLlKBCDdNQb7HLmeRoy3zQFnzYk/1WTckGUIXCVD+Kw+BpAxtuBXCpkN7bdXt/JL3W3J3xuHg3iTsL/NkNFWVPoWkQOj/wxooCrRhFgiTjI4n9ZVHHQObjxVEY8UGIi1zEhVFCahwdq5qvn+hHkKC0EcBigxwvAnkW3ge7L6TMi+VztOLOOKOY8ulKL68GM2emnjeLF3AZSlz2FCZ6yaHwLGv6pkv8MyxsUoHLcsLwBuHwE0rtdy2UuLWNTpmpkkszQEfnAPDAd47tbaB7NaJR+eXujfmtGTUXgFWp5uwPd8Oi1GBJEmwWYlP34L4PSFw7chPeD+MYnkWUVmy0CeNfe5N8ANIjNWpNmHzqklYrDIGRwRm2gXsM/xofRMOf1AgcbYOAfgxMvgxCmS9+dbh5A6VarxuIMdBDoJ0g+vSreytNpAEux7qqWrK82I+kC2xYOAzyFbz5QNJPrXhdRo4XK/n3WILkxPsbKqwsr8xBB3PjukhGyJJv+qqB+QvkN0mR2Fim5pU1hobzxTYOPbcyJoTNpoAlu6wdZKvIslR0O9VXe0Clc5p2Ge4WDh36ux3ThM/1RqnNhXvilU32cjvINtAf4cKdkzlSHpBTqgNY11JfLtFA+o14NU8Wx/piggNfg2yGVR8EF9/dP37PyCIoDQLs8z9hmv71nsC4wFz9klX2tD4/AEG+gBoQ7KghD8MZ2xdnt7s7wAAAABJRU5ErkJggg==&label=Under&message=Construction&style=for-the-badge&labelColor=1D1D1D&color=ffff99)
 
----
+--- -->
 
-<!-- TODO TOC -->
+- [Beep Frequency  ](#beep-frequency--)
+  - [About](#about)
+    - [Description](#description)
+    - [Motivation](#motivation)
+  - [Usage](#usage)
+    - [Environment](#environment)
+    - [How To Use](#how-to-use)
+    - [Examples](#examples)
+  - [Project Information](#project-information)
+    - [Source File Quality](#source-file-quality)
+    - [File MD5 Hashes](#file-md5-hashes)
+    - [Current Windows X86 MD5](#current-windows-x86-md5)
+    - [Current Windows X64 MD5](#current-windows-x64-md5)
+    - [Other Miscellaneous File Information](#other-miscellaneous-file-information)
+  - [Notes](#notes)
+    - [Note 1](#note-1)
+    - [Note 2](#note-2)
+    - [Note 3](#note-3)
+    - [Note 4](#note-4)
+  - [Media](#media)
+  - [Support Me If You Like](#support-me-if-you-like)
+  - [LICENSE](#license)
+
 
 ---
 
@@ -18,11 +40,11 @@
 
 ### Description
 
-<!-- TODO Finish description -->
+&#x54;&#x68;&#x69;&#x73;&#x20;&#x57;&#x69;&#x6e;&#x64;&#x6f;&#x77;&#x73;&#x20;&#x63;&#x6f;&#x6d;&#x6d;&#x61;&#x6e;&#x64;&#x20;&#x6c;&#x69;&#x6e;&#x65;&#x20;&#x74;&#x6f;&#x6f;&#x6c;&#x20;&#x65;&#x6e;&#x61;&#x62;&#x6c;&#x65;&#x73;&#x20;&#x61;&#x6e;&#x79;&#x6f;&#x6e;&#x65;&#x20;&#x74;&#x6f;&#x20;&#x62;&#x65;&#x20;&#x61;&#x62;&#x6c;&#x65;&#x20;&#x74;&#x6f;&#x20;&#x63;&#x61;&#x6c;&#x6c;&#x20;&#x74;&#x68;&#x65;&#x20;`Beep()`<sup>[[2](#note-2)]</sup>&#x20;&#x66;&#x75;&#x6e;&#x63;&#x74;&#x69;&#x6f;&#x6e;&#x20;&#x66;&#x72;&#x6f;&#x6d;&#x20;&#x74;&#x68;&#x65;&#x20;&#x57;&#x69;&#x6e;&#x33;&#x32;&#x20;&#x41;&#x50;&#x49;&#x20;&#x6c;&#x69;&#x62;&#x72;&#x61;&#x72;&#x79;&#x20;&#x63;&#x72;&#x65;&#x61;&#x74;&#x69;&#x6e;&#x67;&#x20;&#x61;&#x20;&#x62;&#x65;&#x65;&#x70;&#x20;&#x73;&#x6f;&#x75;&#x6e;&#x64;&#x20;&#x69;&#x6e;&#x20;*hertz*<sup>[[3](#note-3)]</sup>&#x20;&#x66;&#x72;&#x65;&#x71;&#x75;&#x65;&#x6e;&#x63;&#x79;&period;
 
 ### Motivation
 
-<!-- TODO Finish motivation -->
+&#x49;&#x20;&#x77;&#x61;&#x6e;&#x74;&#x65;&#x64;&#x20;&#x61;&#x20;&#x73;&#x6f;&#x6c;&#x75;&#x74;&#x69;&#x6f;&#x6e;&#x20;&#x66;&#x6f;&#x72;&#x20;&#x64;&#x6f;&#x69;&#x6e;&#x67;&#x20;*pure tone hearing tests*<sup>[[4](#note-4)]</sup>&#x20;&#x69;&#x6e;&#x20;&#x6d;&#x79;&#x20;&#x68;&#x6f;&#x6d;&#x65;&period;&#x20;&#x4f;&#x66;&#x20;&#x63;&#x6f;&#x75;&#x72;&#x73;&#x65;&#x20;&#x6d;&#x79;&#x20;&#x66;&#x61;&#x6d;&#x69;&#x6c;&#x79;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x66;&#x72;&#x69;&#x65;&#x6e;&#x64;&#x73;&#x20;&#x77;&#x6f;&#x75;&#x6c;&#x64;&#x20;&#x67;&#x65;&#x74;&#x20;&#x61;&#x20;&#x73;&#x65;&#x63;&#x6f;&#x6e;&#x64;&#x20;&#x6f;&#x70;&#x69;&#x6e;&#x69;&#x6f;&#x6e;&#x20;&#x69;&#x66;&#x20;&#x77;&#x65;&#x20;&#x66;&#x6f;&#x75;&#x6e;&#x64;&#x20;&#x6f;&#x75;&#x72;&#x20;&#x68;&#x65;&#x61;&#x72;&#x69;&#x6e;&#x67;&#x20;&#x77;&#x61;&#x73;&#x20;&#x66;&#x61;&#x69;&#x6c;&#x69;&#x6e;&#x67;&#x20;&#x74;&#x68;&#x69;&#x73;&#x20;&#x74;&#x65;&#x73;&#x74;&period;
 
 ---
 
@@ -34,13 +56,38 @@
 
 ### How To Use
 
-<!-- TODO Add more HOW TO USE -->
-
 &#x41;&#x73;&#x20;&#x77;&#x69;&#x74;&#x68;&#x20;&#x61;&#x6e;&#x79;&#x20;&#x70;&#x6f;&#x72;&#x74;&#x61;&#x62;&#x6c;&#x65;&#x20;&#x70;&#x72;&#x6f;&#x67;&#x72;&#x61;&#x6d;&#x20;&#x74;&#x68;&#x69;&#x73;&#x20;&#x63;&#x61;&#x6e;&#x20;&#x62;&#x65;&#x20;&#x70;&#x6c;&#x61;&#x63;&#x65;&#x64;&#x20;&#x61;&#x6e;&#x79;&#x77;&#x68;&#x65;&#x72;&#x65;&#x20;&#x79;&#x6f;&#x75;&#x20;&#x6c;&#x69;&#x6b;&#x65;&#x20;&#x6f;&#x6e;&#x20;&#x79;&#x6f;&#x75;&#x72;&#x20;&#x6d;&#x61;&#x63;&#x68;&#x69;&#x6e;&#x65;&#x2c;&#x20;&#x62;&#x75;&#x74;&#x20;&#x6d;&#x6f;&#x72;&#x65;&#x20;&#x70;&#x72;&#x65;&#x66;&#x65;&#x72;&#x61;&#x62;&#x6c;&#x79;&#x20;&#x69;&#x6e;&#x20;&#x61;&#x20;&#x64;&#x69;&#x72;&#x65;&#x63;&#x74;&#x6f;&#x72;&#x79;&#x20;&#x74;&#x68;&#x61;&#x74;&#x20;&#x69;&#x73;&#x20;&#x69;&#x6e;&#x20;&#x79;&#x6f;&#x75;&#x72;&#x20;`%PATH%`&#x20;&#x65;&#x6e;&#x76;&#x69;&#x72;&#x6f;&#x6e;&#x6d;&#x65;&#x6e;&#x74;&#x20;&#x76;&#x61;&#x72;&#x69;&#x61;&#x62;&#x6c;&#x65;&#x20;&#x73;&#x6f;&#x20;&#x79;&#x6f;&#x75;&#x20;&#x63;&#x61;&#x6e;&#x20;&#x72;&#x75;&#x6e;&#x20;&#x69;&#x74;&#x20;&#x77;&#x69;&#x74;&#x68;&#x6f;&#x75;&#x74;&#x20;&#x61;&#x20;&#x66;&#x75;&#x6c;&#x6c;&#x20;&#x70;&#x61;&#x74;&#x68;&#x20;&#x28;`beepfreq`&#x20;&#x66;&#x6f;&#x72;&#x20;&#x65;&#x78;&#x61;&#x6d;&#x70;&#x6c;&#x65;&#x29;&#x2e;&#x20;&#x49;&#x20;&#x72;&#x65;&#x63;&#x6f;&#x6d;&#x6d;&#x65;&#x6e;&#x64;&#x20;&#x75;&#x73;&#x69;&#x6e;&#x67;&#x20;&#x61;&#x20;&#x64;&#x65;&#x64;&#x69;&#x63;&#x61;&#x74;&#x65;&#x64;&#x20;*Bin*&#x20;&#x64;&#x69;&#x72;&#x65;&#x63;&#x74;&#x6f;&#x72;&#x79;&#x2c;&#x20;&#x62;&#x75;&#x74;&#x20;&#x6f;&#x66;&#x20;&#x63;&#x6f;&#x75;&#x72;&#x73;&#x65;&#x2c;&#x20;&#x69;&#x74;&#x27;&#x73;&#x20;&#x79;&#x6f;&#x75;&#x72;&#x20;&#x63;&#x68;&#x6f;&#x69;&#x63;&#x65;&#x2e;&#x20;&#x49;&#x66;&#x20;&#x79;&#x6f;&#x75;&#x72;&#x20;&#x70;&#x61;&#x74;&#x68;&#x20;&#x69;&#x73;&#x6e;&#x27;&#x74;&#x20;&#x61;&#x6c;&#x72;&#x65;&#x61;&#x64;&#x79;&#x20;&#x69;&#x6e;&#x20;&#x79;&#x6f;&#x75;&#x72;&#x20;`%PATH%`&#x20;&#x65;&#x6e;&#x76;&#x69;&#x72;&#x6f;&#x6e;&#x6d;&#x65;&#x6e;&#x74;&#x20;&#x74;&#x68;&#x65;&#x6e;&#x20;&#x49;&#x20;&#x73;&#x75;&#x67;&#x67;&#x65;&#x73;&#x74;&#x20;&#x61;&#x64;&#x64;&#x69;&#x6e;&#x67;&#x20;&#x69;&#x74;<sup>[[1](#note-1)]</sup>&#x2c;&#x20;&#x62;&#x75;&#x74;&#x20;&#x69;&#x66;&#x20;&#x6e;&#x6f;&#x74;&#x20;&#x74;&#x68;&#x65;&#x6e;&#x20;&#x79;&#x6f;&#x75;&#x20;&#x68;&#x61;&#x76;&#x65;&#x20;&#x70;&#x72;&#x6f;&#x76;&#x69;&#x64;&#x65;&#x20;&#x74;&#x68;&#x65;&#x20;&#x66;&#x75;&#x6c;&#x6c;&#x20;&#x70;&#x61;&#x74;&#x68;&#x20;&#x28;`C:\Path\To\beepfreq.exe`&#x20;&#x66;&#x6f;&#x72;&#x20;&#x65;&#x78;&#x61;&#x6d;&#x70;&#x6c;&#x65;&#x29;&#x20;&#x77;&#x68;&#x65;&#x6e;&#x20;&#x65;&#x78;&#x65;&#x63;&#x75;&#x74;&#x69;&#x6e;&#x67;&#x20;&#x74;&#x68;&#x65;&#x20;&#x70;&#x72;&#x6f;&#x67;&#x72;&#x61;&#x6d;&#x2e;
 
 ### Examples
 
-<!-- TODO Finish examples -->
+Get help
+
+```
+PS> beepfreq /?
+
+Beep Frequency  - A wrapper for the Beep function
+                  from the Windows API.
+
+beepgreq  [/? | /h | /help] |
+          [[/f | /frequency] <HERTZ>]
+          [[/d | /duration] <DURATION>]
+
+  HERTZ     Hertz integer value of the beep.
+  DURATION  Duration integer value of the beep.
+
+  /?, /h, /help   This help screen.
+  /f, /frequency  The beep's frequency in hertz
+  /d, /duration   The duration of the beep in
+                  milliseconds.
+
+```
+
+Initiate a beep at 8000Hz for a duration of 2 seconds (2000 milliseconds)
+
+```
+PS> beepfreq /f 8000 /d 2000
+
+```
 
 ---
 
@@ -88,6 +135,18 @@
 
 [Adding a path to the Windows %PATH% environment variable @ DuckDuckGo](https://duckduckgo.com/?q=Adding+a+path+to+the+Windows+%25PATH%25+environment+variable&ia=web)
 
+### Note 2
+
+[Windows API Beep Function](https://learn.microsoft.com/en-us/windows/win32/api/utilapiset/nf-utilapiset-beep)
+
+### Note 3
+
+[hertz frequency @ DuckDuckGo](https://duckduckgo.com/?q=hertz+frequency&ia=web)
+
+### Note 4
+
+[My source for pure tone hearing test](https://www.asha.org/public/hearing/audiogram/)
+
 ---
 
 ## Media
@@ -96,7 +155,13 @@ Logo
 
 ![Logo](docs/media/logo/icon1.png)
 
-<!-- TODO Add more media -->
+Help
+
+![HELP](docs/media/screenshots/help.png)
+
+Example
+
+![EXAMPLE1](./docs/media/screenshots/example1.png)
 
 ---
 
